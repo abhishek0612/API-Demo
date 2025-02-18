@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-17T23:28:47 IST" name="Test Suite" finished-at="2025-02-17T23:28:51 IST" duration-ms="3612">
+    <groups>
+    </groups>
+    <test started-at="2025-02-17T23:28:47 IST" name="UI Tests" finished-at="2025-02-17T23:28:51 IST" duration-ms="3612">
+      <class name="apiDemo.UITests">
+        <test-method is-config="true" signature="setupExtent()[pri:0, instance:apiDemo.UITests@79079097]" started-at="2025-02-17T23:28:47 IST" name="setupExtent" finished-at="2025-02-17T23:28:47 IST" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupExtent -->
+        <test-method signature="testLogin()[pri:0, instance:apiDemo.UITests@79079097]" started-at="2025-02-17T23:28:47 IST" name="testLogin" finished-at="2025-02-17T23:28:51 IST" duration-ms="3582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+      </class> <!-- apiDemo.UITests -->
+    </test> <!-- UI Tests -->
+  </suite> <!-- Test Suite -->
+</testng-results>

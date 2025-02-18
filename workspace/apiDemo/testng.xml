@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test Suite">
+    <test name="UI Tests">
+        <classes>
+            <class name="apiDemo.UITests" />
+        </classes>
+    </test>
+    <!--<test name="API Tests">
+        <classes>
+            <class name="APITests" />
+        </classes>
+    </test>-->
+</suite>
